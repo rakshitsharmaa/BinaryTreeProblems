@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.java": "bat",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "files.exclude": {
+ "*.exe": true
+ },
+ "[log]": {
+     "editor.fontSize": 50
+},
+"C_Cpp.errorSquiggles": "Enabled"
+
+}
